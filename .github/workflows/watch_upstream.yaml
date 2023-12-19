@@ -22,7 +22,7 @@ jobs:
         run: docker images ${{ steps.base_image.outputs.label }} >upstream_docker_version.txt
 
       - name: Capture package dependency versions
-        run: sudo docker run --rm ${{ steps.base_image.outputs.label }} bash -c "apt-get -qq update ; apt-get -qq -s rsync ssh | grep ^Inst" >upstream_latest_release.txt
+        run: sudo docker run --rm ${{ steps.base_image.outputs.label }} bash -c "apt-get -qq update ; apt-get -qq -s rsync openssh-client | grep ^Inst" >upstream_latest_release.txt
 
       - name: Check for modified files
         id: git-check
