@@ -12,5 +12,5 @@ Inst libx11-data (2:1.7.5-1ubuntu0.3 Ubuntu:22.04/jammy-updates, Ubuntu:22.04/ja
 Inst libx11-6 (2:1.7.5-1ubuntu0.3 Ubuntu:22.04/jammy-updates, Ubuntu:22.04/jammy-security [amd64])
 Inst libxext6 (2:1.3.4-1build1 Ubuntu:22.04/jammy [amd64])
 Inst libxmuu1 (2:1.1.3-3 Ubuntu:22.04/jammy [amd64])
-Inst openssh-client (1:8.9p1-3ubuntu0.4 Ubuntu:22.04/jammy-updates [amd64])
+Inst openssh-client (1:8.9p1-3ubuntu0.5 Ubuntu:22.04/jammy-updates, Ubuntu:22.04/jammy-security [amd64])
 Inst xauth (1:1.1-1build2 Ubuntu:22.04/jammy [amd64])
