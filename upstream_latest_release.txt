@@ -1,6 +1,6 @@
 Inst libpopt0 (1.19+dfsg-1build1 Ubuntu:24.10/oracular [amd64])
 Inst rsync (3.3.0-1 Ubuntu:24.10/oracular [amd64])
-Inst adduser (3.137ubuntu1 Ubuntu:24.10/oracular [all])
+Inst adduser (3.137ubuntu2 Ubuntu:24.10/oracular [all])
 Inst krb5-locales (1.21.3-3 Ubuntu:24.10/oracular [all])
 Inst libbsd0 (0.12.2-1 Ubuntu:24.10/oracular [amd64])
 Inst libkrb5support0 (1.21.3-3 Ubuntu:24.10/oracular [amd64])
