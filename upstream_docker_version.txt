@@ -1,1 +1,1 @@
-ubuntu latest cd1dba651b30
+ubuntu latest d1e2e92c075e
